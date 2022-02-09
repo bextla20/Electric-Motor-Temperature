@@ -13,12 +13,12 @@ The stator is the stationary component of electromagnetic circuits in motors. In
 
 The dataset consist of Permanent-Magnet Synchronous Motor (PMSM) attributes of any motor detail such as ambient, pm, stator yoke, stator tooth, stator winding and profile id. The aim is to predict multiple target accuracy. 
 
-####Profile ID size:
+#### Profile ID size:
 
 ![profileid](https://user-images.githubusercontent.com/62169942/153266070-c94277ff-6211-4cf3-8619-5284e5794beb.png)
 
 
-####Stator features by different Profile ID.
+#### Stator features by different Profile ID.
 
 Profile ID with 20
 ![Stators](https://user-images.githubusercontent.com/62169942/153265426-788d4576-2b6d-4d92-ad1b-671cb53a8c42.png)
