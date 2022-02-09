@@ -30,4 +30,10 @@ Profile ID with 47
 
 
 
-l tried to use some regression models and hyperparameter tuning
+l tried to use some regression models and hyperparameter tuning.
+
+![ompare moldes](https://user-images.githubusercontent.com/62169942/153267384-c15c50b8-df23-4aaa-bf69-2140c7cb091d.png)
+
+As we see KNN models have high accuracy with **95%**. 
+
+That is why use hyperparametr over KNN and get **96%**.
